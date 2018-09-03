@@ -2,4 +2,4 @@
 
 VIEW IN ACTION
 
-kautukkundan.github.io/weather/
+https://kautukkundan.github.io/weather/
