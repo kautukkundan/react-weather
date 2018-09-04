@@ -1,8 +1,8 @@
 {
-  "name": "todo",
-  "version": "0.1.0",
+  "name": "weather",
+  "version": "0.2.0",
   "private": true,
-  "homepage": "https://kautukkundan.github.io/weather/",
+  "homepage": "http://kautukkundan.github.io/react-weather/",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "react": "^16.4.2",
@@ -11,6 +11,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
